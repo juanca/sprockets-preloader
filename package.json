@@ -1,0 +1,19 @@
+{
+  "name": "sprockets-preloader",
+  "version": "1.0.0",
+  "description": "Webpack pre-loader to easily translate sprockets require directives into npm module requires",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanca/sprockets-preloader.git"
+  },
+  "author": "Juan Carlos Medina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanca/sprockets-preloader/issues"
+  },
+  "homepage": "https://github.com/juanca/sprockets-preloader#readme.md"
+}
