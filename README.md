@@ -13,6 +13,7 @@
 - Recommended: [`webpack-rails`](https://github.com/mipearson/webpack-rails) gem to integrate webpack asset helpers in Rails
 - Make `non_webpack_compatible_before_webpack` sprocket asset for all `.erb` assets
 - Make `non_webpack_compatible_after_webpack` sprocket asset for all `.erb` assets dependent on webpack assets
+- Note: any gem with `erb` dependencies should be included in either of the above files
 - Add [`coffee-loader`](https://github.com/webpack/coffee-loader) to parse CoffeeScript files
 
 
