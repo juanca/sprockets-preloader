@@ -1,6 +1,6 @@
 {
   "name": "sprockets-preloader",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Webpack pre-loader to easily translate sprockets require directives into JavaScript module dependencies",
   "main": "lib/loader.js",
   "scripts": {
