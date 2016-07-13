@@ -1,7 +1,8 @@
 {
   "name": "sprockets-preloader",
-  "version": "0.2.5",
+  "version": "0.9.0",
   "description": "Webpack pre-loader to easily translate sprockets require directives into JavaScript module dependencies",
+  "keywords": ["webpack", "loader", "sprockets", "directives", "require", "require_tree", "require_directory", "require_self"],
   "main": "lib/loader.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
