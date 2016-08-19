@@ -1,5 +1,8 @@
 # Sprockets Pre-Loader for Webpack
 
+[![npm version](https://img.shields.io/npm/v/sprockets-preloader.svg?style=flat-square)](https://www.npmjs.com/package/sprockets-preloader)
+[![npm downloads](https://img.shields.io/npm/dm/sprockets-preloader.svg?style=flat-square)](https://www.npmjs.com/package/sprockets-preloader)
+
 Easily translate sprockets require directives into JavaScript module dependencies.
 Useful for migrating a Rails project to Webpack module bundling.
 
