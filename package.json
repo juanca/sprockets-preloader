@@ -2,7 +2,17 @@
   "name": "sprockets-preloader",
   "version": "0.9.10-b",
   "description": "Webpack pre-loader to easily translate sprockets require directives into JavaScript module dependencies",
-  "keywords": ["webpack", "loader", "rails", "sprockets", "directives", "require", "require_tree", "require_directory", "require_self"],
+  "keywords": [
+    "webpack",
+    "loader",
+    "rails",
+    "sprockets",
+    "directives",
+    "require",
+    "require_tree",
+    "require_directory",
+    "require_self"
+  ],
   "main": "lib/loader.js",
   "scripts": {
     "test": "jasmine"
@@ -12,10 +22,12 @@
     "url": "git+https://github.com/juanca/sprockets-preloader.git"
   },
   "author": "Juan Carlos Medina <juanca.med@gmail.com>",
-  "contributors": [{
-    "name": "Juan Carlos Medina",
-    "email": "juanca.med@gmail.com"
-  }],
+  "contributors": [
+    {
+      "name": "Juan Carlos Medina",
+      "email": "juanca.med@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/juanca/sprockets-preloader/issues"
