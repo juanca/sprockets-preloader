@@ -15,11 +15,11 @@ Useful for migrating a Rails project to Webpack module bundling.
 - JST Eco assets
 
 
-## Using `sprocket-preloader`
+## Using `sprockets-preloader`
 
 ### Installation
 
-    npm install --save sprocket-preloader
+    npm install --save sprockets-preloader
 
 ### Configuration
 
