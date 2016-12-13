@@ -80,6 +80,6 @@ Easiest to move gem and vendor dependencies as module dependencies (from NPM or 
 For each JavaScript file in the Rails assets manifest, convert to module dependencies.
 Perhaps this can be released as a script to convert require directives.
 
-For a more automated approach, consider using another Mavenlink loader: [kitno-loader](github.com/mavenlink/kitno-loader). Although currently in an alpha stage, its goal is to automagically convert (CoffeeScript) files into CommonJS-compliant modules. 
+For a more automated approach, consider using another Mavenlink loader: [kitno-loader](https://github.com/mavenlink/kitno-loader). Although currently in an alpha stage, its goal is to automagically convert (CoffeeScript) files into CommonJS-compliant modules. 
 
 As always, once these loaders have reach stability in your codebase, it is encouraged to **[write to disk](https://github.com/mavenlink/sprockets-preloader/issues/18)**. 
